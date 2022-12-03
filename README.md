@@ -13,3 +13,4 @@ npm i
 ```
 
 ## Video Walkthrough
+[jesus-orduno-ecommerce-backend-walkthrough.webm](https://user-images.githubusercontent.com/107074271/205433170-68fff06f-3a21-4702-a061-78bbc933c722.webm)
